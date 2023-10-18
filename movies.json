@@ -1,0 +1,389 @@
+[
+  {
+    "Actors": "Mark Kermode, Peter Jackson",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 4 wins & 10 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "UK, New Zealand",
+    "DVD": "N/A",
+    "Director": "Peter Jackson",
+    "Genre": "Documentary, History, War",
+    "Language": "English",
+    "Metascore": 91,
+    "Plot": "A documentary about World War I with never-before-seen footage to commemorate the centennial of the end of the war.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWI3ZThmYzUtNDJhOC00ZWY4LThiNmMtZDgxNjE3Yzk4NDU1XkEyXkFqcGdeQXVyNTk5Nzg1NjQ@._V1_SX300.jpg",
+    "Production": "Warner Bros. Pictures",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "91/100"
+      }
+    ],
+    "Released": "01 Feb 2019",
+    "Response": "True",
+    "Runtime": "99 min",
+    "Title": "They Shall Not Grow Old",
+    "Type": "movie",
+    "Writer": "Peter Jackson",
+    "Year": 2018,
+    "imdbID": "tt7905466",
+    "imdbRating": 8.3,
+    "imdbVotes": "21,722"
+  },
+  {
+    "Actors": "Fer Ochoa, Josue Ochoa, Juan Ochoa",
+    "Awards": "24 wins & 20 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "Mexico",
+    "DVD": "N/A",
+    "Director": "Luke Lorentzen",
+    "Genre": "Documentary, Action, Crime, Drama",
+    "Language": "Spanish",
+    "Metascore": 84,
+    "Plot": "In Mexico City's wealthiest neighborhoods, the Ochoa family runs a private ambulance, competing with other for-profit ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGYyZTk5MjYtNGY2ZS00NzRhLTgwMWMtZjhmMmQ4OGFkNTNiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Production": 1091,
+    "Rated": "N/A",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "100%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "84/100"
+      }
+    ],
+    "Released": "06 Dec 2019",
+    "Response": "True",
+    "Runtime": "81 min",
+    "Title": "Midnight Family",
+    "Type": "movie",
+    "Writer": "Luke Lorentzen",
+    "Year": 2019,
+    "imdbID": "tt6010976",
+    "imdbRating": 7.7,
+    "imdbVotes": 330
+  },
+  {
+    "Actors": "Mark Wahlberg, Dwayne Johnson, Anthony Mackie, Tony Shalhoub",
+    "Awards": "4 nominations.",
+    "BoxOffice": "$49,300,000",
+    "Country": "USA",
+    "DVD": "27 Aug 2013",
+    "Director": "Michael Bay",
+    "Genre": "Action, Comedy, Crime, Drama",
+    "Language": "English",
+    "Metascore": 45,
+    "Plot": "A trio of bodybuilders in Florida get caught up in an extortion ring and a kidnapping scheme that goes terribly wrong.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU0NDE5NTU0OV5BMl5BanBnXkFtZTcwMzI1OTMzOQ@@._V1_SX300.jpg",
+    "Production": "Paramount Studios",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "6.4/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "50%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "45/100"
+      }
+    ],
+    "Released": "26 Apr 2013",
+    "Response": "True",
+    "Runtime": "129 min",
+    "Title": "Pain & Gain",
+    "Type": "movie",
+    "Writer": "Christopher Markus (screenplay), Stephen McFeely (screenplay), Pete Collins (based on the magazine articles by)",
+    "Year": 2013,
+    "imdbID": "tt1980209",
+    "imdbRating": 6.4,
+    "imdbVotes": "191,388"
+  },
+  {
+    "Actors": "Robert De Niro, Al Pacino, Joe Pesci, Harvey Keitel",
+    "Awards": "Nominated for 5 Golden Globes. Another 35 wins & 159 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "27 Nov 2019",
+    "Director": "Martin Scorsese",
+    "Genre": "Biography, Crime, Drama",
+    "Language": "English, Italian, Latin, Spanish",
+    "Metascore": 94,
+    "Plot": "In the 1950s, truck driver Frank Sheeran gets involved with Russell Bufalino and his Pennsylvania crime family...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.2/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "96%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "94/100"
+      }
+    ],
+    "Released": "27 Nov 2019",
+    "Response": "True",
+    "Runtime": "209 min",
+    "Title": "The Irishman",
+    "Type": "movie",
+    "Writer": "Steven Zaillian (screenplay), Charles Brandt (book)",
+    "Year": 2019,
+    "imdbID": "tt1302006",
+    "imdbRating": 8.2,
+    "imdbVotes": "144,536"
+  },
+  {
+    "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",
+    "Awards": "Won 3 Golden Globes. Another 70 wins & 242 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "USA, UK, China",
+    "DVD": "22 Nov 2019",
+    "Director": "Quentin Tarantino",
+    "Genre": "Comedy, Drama",
+    "Language": "English, Italian, Spanish",
+    "Metascore": 83,
+    "Plot": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+    "Production": "Columbia Pictures",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.8/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "85%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "83/100"
+      }
+    ],
+    "Released": "26 Jul 2019",
+    "Response": "True",
+    "Runtime": "161 min",
+    "Title": "Once Upon a Time... in Hollywood",
+    "Type": "movie",
+    "Writer": "Quentin Tarantino",
+    "Year": 2019,
+    "imdbID": "tt7131622",
+    "imdbRating": 7.8,
+    "imdbVotes": "318,841"
+  },
+  {
+    "Actors": "Adam Driver, Scarlett Johansson, Julia Greer, Azhy Robertson",
+    "Awards": "Won 1 Golden Globe. Another 86 wins & 212 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "UK, USA",
+    "DVD": "06 Dec 2019",
+    "Director": "Noah Baumbach",
+    "Genre": "Comedy, Drama, Romance",
+    "Language": "English",
+    "Metascore": 93,
+    "Plot": "Noah Baumbach's incisive and compassionate look at a marriage breaking up and a family staying together.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGVmY2RjNDgtMTc3Yy00YmY0LTgwODItYzBjNWJhNTRlYjdkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "95%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "93/100"
+      }
+    ],
+    "Released": "06 Dec 2019",
+    "Response": "True",
+    "Runtime": "137 min",
+    "Title": "Marriage Story",
+    "Type": "movie",
+    "Writer": "Noah Baumbach",
+    "Year": 2019,
+    "imdbID": "tt7653254",
+    "imdbRating": 8.1,
+    "imdbVotes": "108,524"
+  },
+  {
+    "Actors": "Winona Ryder, Gabriel Byrne, Trini Alvarado, Samantha Mathis",
+    "Awards": "Nominated for 3 Oscars. Another 5 wins & 15 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "USA, Canada",
+    "DVD": "26 Feb 2008",
+    "Director": "Gillian Armstrong",
+    "Genre": "Drama, Family, Romance",
+    "Language": "English, German, French",
+    "Metascore": 87,
+    "Plot": "With their father fighting in the American Civil War, sisters Jo, Meg, Amy and Beth are at home with their mother...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmJhNTgzMWYtZTU5OC00MmE2LTlkN2UtNWE0MmJiNWJmNmZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Production": "N/A",
+    "Rated": "PG",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "87/100"
+      }
+    ],
+    "Released": "25 Dec 1994",
+    "Response": "True",
+    "Runtime": "115 min",
+    "Title": "Little Women",
+    "Type": "movie",
+    "Website": "N/A",
+    "Writer": "Louisa May Alcott (novel), Robin Swicord (screenplay)",
+    "Year": 1994,
+    "imdbID": "tt0110367",
+    "imdbRating": 7.3,
+    "imdbVotes": "45,297"
+  },
+  {
+    "Actors": "Kang-ho Song, Sun-kyun Lee, Yeo-jeong Jo, Woo-sik Choi",
+    "Awards": "Won 1 Golden Globe. Another 119 wins & 179 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "South Korea",
+    "DVD": "14 Jan 2020",
+    "Director": "Bong Joon Ho",
+    "Genre": "Comedy, Drama, Thriller",
+    "Language": "Korean, English",
+    "Metascore": 96,
+    "Plot": "All unemployed, Ki-taek and his family take peculiar interest in the wealthy and glamorous Parks, as they ingratiate ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Production": "NEON",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.6/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "99%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "96/100"
+      }
+    ],
+    "Released": "08 Nov 2019",
+    "Response": "True",
+    "Runtime": "132 min",
+    "Title": "Parasite",
+    "Type": "movie",
+    "Writer": "Bong Joon Ho (story), Bong Joon Ho (screenplay), Bong Joon Ho (story by), Jin Won Han (screenplay)",
+    "Year": 2019,
+    "imdbID": "tt6751668",
+    "imdbRating": 8.6,
+    "imdbVotes": "128,604"
+  },
+  {
+    "Actors": "Daniel Craig, Chris Evans, Ana de Armas, Jamie Lee Curtis",
+    "Awards": "Nominated for 3 Golden Globes. Another 22 wins & 37 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "N/A",
+    "Director": "Rian Johnson",
+    "Genre": "Comedy, Crime, Drama, Mystery, Thriller",
+    "Language": "English, Spanish",
+    "Metascore": 82,
+    "Plot": "When police rule Harlan's case a suicide, Blanc suspects foul play and examines a host of clues and dubious red ...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_SX300.jpg",
+    "Production": "Lionsgate",
+    "Rated": "PG-13",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "8.1/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "82/100"
+      }
+    ],
+    "Released": "27 Nov 2019",
+    "Response": "True",
+    "Runtime": "130 min",
+    "Title": "Knives Out",
+    "Type": "movie",
+    "Writer": "Rian Johnson",
+    "Year": 2019,
+    "imdbID": "tt8946378",
+    "imdbRating": 8.1,
+    "imdbVotes": "66,522"
+  },
+  {
+    "Actors": "Eddie Murphy, Keegan-Michael Key, Mike Epps, Craig Robinson",
+    "Awards": "Nominated for 2 Golden Globes. Another 17 wins & 54 nominations.",
+    "BoxOffice": "N/A",
+    "Country": "USA",
+    "DVD": "25 Oct 2019",
+    "Director": "Craig Brewer",
+    "Genre": "Biography, Comedy, Drama",
+    "Language": "English",
+    "Metascore": 76,
+    "Plot": "Eddie Murphy portrays real-life legend Rudy Ray Moore, a comedy and rap pioneer who proved naysayers wrong when...",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Production": "Netflix",
+    "Rated": "R",
+    "Ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.3/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "97%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "76/100"
+      }
+    ],
+    "Released": "25 Oct 2019",
+    "Response": "True",
+    "Runtime": "118 min",
+    "Title": "Dolemite Is My Name",
+    "Type": "movie",
+    "Writer": "Scott Alexander, Larry Karaszewski",
+    "Year": 2019,
+    "imdbID": "tt8526872",
+    "imdbRating": 7.3,
+    "imdbVotes": "31,613"
+  }
+]
